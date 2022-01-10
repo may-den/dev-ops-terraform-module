@@ -3,5 +3,5 @@
     "author": "Your Name [your.name@mayden.co.uk]",
     "description": "your description",
     "company": "Mayden",
-    "license": ["BSD", "MIT", "GPLv2", "GPLv3", "Apache", "CC-BY"],
+    "license": ["BSD", "MIT", "GPLv2", "GPLv3", "Apache", "CC-BY"]
 }
