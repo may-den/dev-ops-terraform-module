@@ -24,7 +24,7 @@ No resources.
 
 ## Inputs
 
-- NA: Description, Type, Default, Required
+- Name: Description, Type, Default, Required
 - test: a test thing, string, '', no
 
 ## Outputs
