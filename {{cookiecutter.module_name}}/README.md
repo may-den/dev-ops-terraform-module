@@ -29,6 +29,7 @@ No resources.
 
 ## Outputs
 
+- Name:	Description
 - response: Sub-module responses
 
 ## Authors
